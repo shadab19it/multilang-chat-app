@@ -30,7 +30,7 @@ The Multilang Chat App is a real-time chat application that supports multiple la
 To run the React app locally:
 
 ```bash
-npm start
+npm dev
 ```
 
 ---
@@ -54,5 +54,5 @@ npm start
 To run the React app locally:
 
 ```bash
-npm start
+npm dev
 ```
