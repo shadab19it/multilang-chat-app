@@ -2,9 +2,9 @@
 
 The Multilang Chat App is a real-time chat application that supports multiple languages. It consists of two main components:
 
-| [![Image 1](image1.jpg)](https://ik.imagekit.io/a1mteszjb/chat-app/step-1.jpg?updatedAt=1703611654789) | [![Image 2](image2.jpg)](https://ik.imagekit.io/a1mteszjb/chat-app/step-2.jpg?updatedAt=1703611655474) |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| [![Image 3](image3.jpg)](https://ik.imagekit.io/a1mteszjb/chat-app/step.jpg?updatedAt=1703611655589)   | [![Image 4](image4.jpg)](https://ik.imagekit.io/a1mteszjb/chat-app/step-3.jpg?updatedAt=1703611655487) |
+| [![Image 1](https://ik.imagekit.io/a1mteszjb/chat-app/step-1.jpg?updatedAt=1703611654789)](https://ik.imagekit.io/a1mteszjb/chat-app/step-1.jpg?updatedAt=1703611654789) | [![Image 2](https://ik.imagekit.io/a1mteszjb/chat-app/step-2.jpg?updatedAt=1703611655474)](https://ik.imagekit.io/a1mteszjb/chat-app/step-2.jpg?updatedAt=1703611655474) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![Image 3](https://ik.imagekit.io/a1mteszjb/chat-app/step.jpg?updatedAt=1703611655589)](https://ik.imagekit.io/a1mteszjb/chat-app/step.jpg?updatedAt=1703611655589)     | [![Image 4](https://ik.imagekit.io/a1mteszjb/chat-app/step-3.jpg?updatedAt=1703611655487)](https://ik.imagekit.io/a1mteszjb/chat-app/step-3.jpg?updatedAt=1703611655487) |
 
 1. **Client**: A React application responsible for the user interface.
 2. **Server**: A Node.js application handling backend logic and communication.
